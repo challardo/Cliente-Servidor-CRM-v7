@@ -1,0 +1,91 @@
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\bin\Debug\Servidor.exe
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.ServidorForm.resources
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.csproj.GenerateResource.Cache
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.exe
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.pdb
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\proyectos de prueba\Sistema-TCP-master\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Ivan\Desktop\proyectos de prueba\Sistema-TCP-master\Servidor\bin\Debug\Servidor.exe
+C:\Users\Ivan\Desktop\proyectos de prueba\Sistema-TCP-master\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Ivan\Desktop\proyectos de prueba\Sistema-TCP-master\Servidor\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\proyectos de prueba\Sistema-TCP-master\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\Ivan\Desktop\proyectos de prueba\Sistema-TCP-master\Servidor\obj\Debug\Servidor.ServidorForm.resources
+C:\Users\Ivan\Desktop\proyectos de prueba\Sistema-TCP-master\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\proyectos de prueba\Sistema-TCP-master\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\proyectos de prueba\Sistema-TCP-master\Servidor\obj\Debug\Servidor.exe
+C:\Users\Ivan\Desktop\proyectos de prueba\Sistema-TCP-master\Servidor\obj\Debug\Servidor.pdb
+C:\Users\Ivan\Desktop\Patrones Unidad 1\Cliente (CRM) nuevo v3\Servidor\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Patrones Unidad 1\Cliente (CRM) nuevo v3\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Patrones Unidad 1\Cliente (CRM) nuevo v3\Servidor\obj\Debug\Servidor.ServidorForm.resources
+C:\Users\Ivan\Desktop\Patrones Unidad 1\Cliente (CRM) nuevo v3\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Patrones Unidad 1\Cliente (CRM) nuevo v3\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Patrones Unidad 1\Cliente (CRM) nuevo v3\Servidor\obj\Debug\Servidor.exe
+C:\Users\Ivan\Desktop\Patrones Unidad 1\Cliente (CRM) nuevo v3\Servidor\obj\Debug\Servidor.pdb
+C:\Users\Ivan\Desktop\Patrones Unidad 1\Cliente (CRM) nuevo v3\Servidor\bin\Debug\Factura_Servidor.mdf
+C:\Users\Ivan\Desktop\Patrones Unidad 1\Cliente (CRM) nuevo v3\Servidor\bin\Debug\Factura_Servidor_log.ldf
+C:\Users\Ivan\Desktop\Patrones Unidad 1\Cliente (CRM) nuevo v3\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Ivan\Desktop\Patrones Unidad 1\Cliente (CRM) nuevo v3\Servidor\bin\Debug\Servidor.exe
+C:\Users\Ivan\Desktop\Patrones Unidad 1\Cliente (CRM) nuevo v3\Servidor\bin\Debug\Servidor.pdb
+E:\Patrones de Diseño\Cliente-Servidor (CRM) v4\Servidor (CRM)\bin\Debug\Factura_Servidor.mdf
+E:\Patrones de Diseño\Cliente-Servidor (CRM) v4\Servidor (CRM)\bin\Debug\Factura_Servidor_log.ldf
+E:\Patrones de Diseño\Cliente-Servidor (CRM) v4\Servidor (CRM)\bin\Debug\Servidor.exe.config
+E:\Patrones de Diseño\Cliente-Servidor (CRM) v4\Servidor (CRM)\bin\Debug\Servidor.exe
+E:\Patrones de Diseño\Cliente-Servidor (CRM) v4\Servidor (CRM)\bin\Debug\Servidor.pdb
+E:\Patrones de Diseño\Cliente-Servidor (CRM) v4\Servidor (CRM)\obj\Debug\Servidor.csprojAssemblyReference.cache
+E:\Patrones de Diseño\Cliente-Servidor (CRM) v4\Servidor (CRM)\obj\Debug\Servidor.Properties.Resources.resources
+E:\Patrones de Diseño\Cliente-Servidor (CRM) v4\Servidor (CRM)\obj\Debug\Servidor.ServidorForm.resources
+E:\Patrones de Diseño\Cliente-Servidor (CRM) v4\Servidor (CRM)\obj\Debug\Servidor.csproj.GenerateResource.cache
+E:\Patrones de Diseño\Cliente-Servidor (CRM) v4\Servidor (CRM)\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+E:\Patrones de Diseño\Cliente-Servidor (CRM) v4\Servidor (CRM)\obj\Debug\Servidor.exe
+E:\Patrones de Diseño\Cliente-Servidor (CRM) v4\Servidor (CRM)\obj\Debug\Servidor.pdb
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v5\Servidor (CRM)\bin\Debug\Factura_Servidor.mdf
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v5\Servidor (CRM)\bin\Debug\Factura_Servidor_log.ldf
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v5\Servidor (CRM)\bin\Debug\Servidor.exe.config
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v5\Servidor (CRM)\bin\Debug\Servidor.exe
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v5\Servidor (CRM)\bin\Debug\Servidor.pdb
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v5\Servidor (CRM)\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v5\Servidor (CRM)\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v5\Servidor (CRM)\obj\Debug\Servidor.ServidorForm.resources
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v5\Servidor (CRM)\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v5\Servidor (CRM)\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v5\Servidor (CRM)\obj\Debug\Servidor.exe
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v5\Servidor (CRM)\obj\Debug\Servidor.pdb
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v6\Servidor (CRM)\bin\Debug\Factura_Servidor.mdf
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v6\Servidor (CRM)\bin\Debug\Factura_Servidor_log.ldf
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v6\Servidor (CRM)\bin\Debug\Servidor.exe.config
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v6\Servidor (CRM)\bin\Debug\Servidor.exe
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v6\Servidor (CRM)\bin\Debug\Servidor.pdb
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v6\Servidor (CRM)\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v6\Servidor (CRM)\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v6\Servidor (CRM)\obj\Debug\Servidor.ServidorForm.resources
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v6\Servidor (CRM)\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v6\Servidor (CRM)\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v6\Servidor (CRM)\obj\Debug\Servidor.exe
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v6\Servidor (CRM)\obj\Debug\Servidor.pdb
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v7\Servidor (CRM)\bin\Debug\Factura_Servidor.mdf
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v7\Servidor (CRM)\bin\Debug\Factura_Servidor_log.ldf
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v7\Servidor (CRM)\bin\Debug\Servidor.exe.config
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v7\Servidor (CRM)\bin\Debug\Servidor.exe
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v7\Servidor (CRM)\bin\Debug\Servidor.pdb
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v7\Servidor (CRM)\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v7\Servidor (CRM)\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v7\Servidor (CRM)\obj\Debug\Servidor.ServidorForm.resources
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v7\Servidor (CRM)\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v7\Servidor (CRM)\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v7\Servidor (CRM)\obj\Debug\Servidor.exe
+C:\Users\Ivan\Desktop\Cliente-Servidor (CRM) v7\Servidor (CRM)\obj\Debug\Servidor.pdb
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\Cliente-Servidor (CRM) v7\Servidor (CRM)\bin\Debug\Factura_Servidor.mdf
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\Cliente-Servidor (CRM) v7\Servidor (CRM)\bin\Debug\Factura_Servidor_log.ldf
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\Cliente-Servidor (CRM) v7\Servidor (CRM)\bin\Debug\Servidor.exe.config
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\Cliente-Servidor (CRM) v7\Servidor (CRM)\bin\Debug\Servidor.exe
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\Cliente-Servidor (CRM) v7\Servidor (CRM)\bin\Debug\Servidor.pdb
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\Cliente-Servidor (CRM) v7\Servidor (CRM)\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\Cliente-Servidor (CRM) v7\Servidor (CRM)\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\Cliente-Servidor (CRM) v7\Servidor (CRM)\obj\Debug\Servidor.ServidorForm.resources
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\Cliente-Servidor (CRM) v7\Servidor (CRM)\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\Cliente-Servidor (CRM) v7\Servidor (CRM)\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\Cliente-Servidor (CRM) v7\Servidor (CRM)\obj\Debug\Servidor.exe
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\Cliente-Servidor (CRM) v7\Servidor (CRM)\obj\Debug\Servidor.pdb
